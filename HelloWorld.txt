@@ -1,3 +1,5 @@
 HALLO WELT! ICH MAG DICH NICHT!
 
 Das ist eine neue Zeile
+
+Änderung für den Bugfix (Merge)
