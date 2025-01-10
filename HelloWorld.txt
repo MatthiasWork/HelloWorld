@@ -5,3 +5,5 @@ Das ist eine neue Zeile
 Änderung für den Bugfix (Merge)
 
 Das ist eine neue Zeile aus dem GitHub direkt
+
+Das ist die Zeile aus dem lokalen Repository!
